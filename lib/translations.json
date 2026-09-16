@@ -50,12 +50,12 @@
         {
           "title": "Scientific Evidence Retrieval Lab",
           "year": "2026",
-          "github": "https://github.com/yaeldemers/scifact-evidence-retrieval"
+          "github": "https://github.com/ydemers/scifact-evidence-retrieval"
         },
         {
           "title": "Interpretable Vision Systems Lab",
           "year": "2026",
-          "github": "https://github.com/yaeldemers/CIFAR-Image-Classification"
+          "github": "https://github.com/ydemers/CIFAR-Image-Classification"
         }
       ]
     },
@@ -242,12 +242,12 @@
         {
           "title": "Laboratoire de récupération d'évidence scientifique",
           "year": "2026",
-          "github": "https://github.com/yaeldemers/scifact-evidence-retrieval"
+          "github": "https://github.com/ydemers/scifact-evidence-retrieval"
         },
         {
           "title": "Laboratoire de systèmes de vision interprétables",
           "year": "2026",
-          "github": "https://github.com/yaeldemers/CIFAR-Image-Classification"
+          "github": "https://github.com/ydemers/CIFAR-Image-Classification"
         }
       ]
     },
