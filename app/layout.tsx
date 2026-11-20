@@ -107,7 +107,7 @@ export default function RootLayout({
               jobTitle: "Software Developer & Researcher",
               description:
                 "Software developer and researcher working at the intersection of secure system design, applied machine learning, and regulatory compliance.",
-              sameAs: ["https://github.com/yaeldemers", "https://linkedin.com/in/yaeldemers"],
+              sameAs: ["https://github.com/ydemers", "https://linkedin.com/in/yaeldemers"],
               knowsAbout: [
                 "Secure System Design",
                 "Applied Machine Learning",

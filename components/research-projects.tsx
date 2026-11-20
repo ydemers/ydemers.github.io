@@ -39,7 +39,7 @@ export default function ResearchProjects() {
 
   const paperLinks = [
     {
-      github: "https://github.com/yaeldemers/RFI-Inpainting",
+      github: "https://github.com/ydemers/RFI-Inpainting",
       paper: null, // or a URL if you later have one
     },
     {
